@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+Live Demo : https://proshop-jade.vercel.app/
+
 <img src="./frontend/public/images/screens.png">
 
 
